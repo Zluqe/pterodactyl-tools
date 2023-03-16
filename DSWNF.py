@@ -1,3 +1,9 @@
+#########################
+#    Made By Person0z   #
+#     Owned By Zluqe    #
+#         DSWNF         #
+#########################
+
 import requests
 
 API = 'YOUR_ADMIN_API_KEY'
@@ -21,7 +27,7 @@ try:
         headers2 = {
             'Authorization': f'Bearer {API}'
         }
-        
+
         response2 = requests.get(f'https://{PANEL}/api/client/servers/{server["attributes"]["uuid"]}/resources', headers=headers2)
         response2.raise_for_status()
         data2 = response2.json()

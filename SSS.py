@@ -1,3 +1,9 @@
+#########################
+#    Made By Person0z   #
+#     Owned By Zluqe    #
+#          SSS          #
+#########################
+
 import requests
 
 API = 'YOUR_ADMIN_API_KEY'

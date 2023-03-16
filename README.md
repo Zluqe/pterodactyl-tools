@@ -8,4 +8,5 @@ Please note that while our repo may not currently include all the features you a
 We value your feedback and would love to hear about any suggestions or requests you have for our template. Join our [community](https://discord.gg/D8rjRN3uJQ) and stay updated on the latest developments and updates.
 
 # Current Tools:
-> SSS (Show Suspended Servers). It is basically in the name for what it does.
+> SSS (Show Suspended Servers)
+> DSWNF (Delete Servers With No Files)
